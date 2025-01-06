@@ -1,3 +1,2 @@
 pyrebase4
 streamlit
-pip install pyrebase4
